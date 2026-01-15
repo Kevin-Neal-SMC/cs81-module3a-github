@@ -14,3 +14,9 @@ function add(a, b) {
 function isEven(num) {
   return num % 2 === 0;
 }
+
+
+// Output the square of a number
+function square(x) {
+  return x * x;
+}
