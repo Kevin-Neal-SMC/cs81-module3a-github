@@ -20,3 +20,9 @@ function isEven(num) {
 function square(x) {
   return x * x;
 }
+
+
+// Return the smallest value of two numbers
+function min(a, b) {
+  return Math.min(a, b);
+}
