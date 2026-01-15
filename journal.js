@@ -8,3 +8,9 @@ function greet(name) {
 function add(a, b) {
   return a + b;
 }
+
+
+// Check if a number is even
+function isEven(num) {
+  return num % 2 === 0;
+}
